@@ -41,4 +41,3 @@ until turn(board) => 9 loop do
   turn(board)
 end
 end
-end
