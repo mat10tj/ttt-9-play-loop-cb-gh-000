@@ -40,5 +40,6 @@ def play(board)
   playtime = 0
 while playtime < 9 loop do
 turn(board)
+  playtime += 1
  end
 end
